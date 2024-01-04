@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
-* binary_tree_postorder - Traverses through a binary tree using post-order method
+* binary_tree_postorder - Traverses binary tree through post-order method
 * @tree: pointer to root node
 * @func: pointer to a print function
 * Return:  measure the depth
